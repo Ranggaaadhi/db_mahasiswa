@@ -10,3 +10,4 @@ if (!$conn) {
     die("Koneksi gagal: " . mysqli_connect_error());
 }
 ?>
+// Commit 5: Dokumentasi konfigurasi database
