@@ -1,3 +1,5 @@
+<!-- #Commit 2: Tambah komentar untuk pengujian commit -->
+
 <?php
 include 'config.php';
 
